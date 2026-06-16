@@ -45,7 +45,6 @@ The analysis aims to transform raw healthcare data into actionable insights thro
 
 ## 📂 Project Structure
 
-```bash
 global-hantavirus-outbreak-analysis/
 │── data/
 │   ├── global_hantavirus_surveillance_dataset_2026.csv
@@ -61,7 +60,6 @@ global-hantavirus-outbreak-analysis/
 │   ├── dashboard_preview.png
 │
 │── README.md
-```
 
 ---
 
@@ -115,20 +113,13 @@ Dashboard pages include:
 ---
 
 ## 📊 Dashboard Preview
+![Dashboard Preview] images/dashboard.png
 
-```md
-images/dashboard.png
-```
 
 ---
 
 ## 🔗 Dashboard Link
-
-Add your Google Looker Studio dashboard link here:
-
-```txt
 https://datastudio.google.com/reporting/f5ee654b-0747-47df-b924-360cd2071421
-```
 
 ---
 
