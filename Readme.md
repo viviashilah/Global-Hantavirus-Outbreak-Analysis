@@ -113,7 +113,7 @@ Dashboard pages include:
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Preview] images/dashboard.png
+![Dashboard](images/dashboard.png)
 
 
 ---
